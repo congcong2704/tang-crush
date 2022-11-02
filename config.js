@@ -1,9 +1,9 @@
 const CONFIG = {
-    introTitle: ' Tuyết à!',
+    introTitle: ' Tuyết àaa!',
     introDesc: ` tối đi ăn không ?
     <33`,
     btnIntro: 'hihi',
-    title: ' 😙',
+    title: ' 😙!',
     desc: ' ',
     btnYes: 'Điiiii <33',
     btnNo: 'Không :3',
